@@ -1,0 +1,52 @@
+{
+  "Products": [
+    {
+      "p_name":"Apple",
+      "p_image":"../../assets/images/apple.jpg",
+      "p_id":1,
+      "p_cost":30,
+      "p_availability":1,
+      "p_details":"Imported from Swiss",
+      "p_category":"Premium"
+      },
+      {
+      "p_name":"Mango",
+      "p_image":"../../assets/images/mango1.jpg",
+      "p_id":2,
+      "p_cost":50,
+      "p_availability":1,
+      "p_details":"Farmed at Selam",
+      "p_category":"Tamilnadu"
+      },
+      {
+      "p_name":"Bananna",
+      "p_image":"../../assets/images/banana1.jpg",
+      "p_id":3,
+      "p_cost":5,
+      "p_availability":0
+      },
+      {
+      "p_name":"Orange",
+      "p_image":"../../assets/images/orange2.jpg",
+      "p_id":4,
+      "p_cost":25,
+      "p_availability":1,
+      "p_details":"from Nagpur",
+      "p_category":"Premium"
+      }
+  ],
+  "pro_cat":[
+    {
+      "id":1,
+      "p_category":"All"
+    },
+    {
+      "id":2,
+      "p_category":"Premium"
+    },
+    {
+      "id":3,
+      "p_category":"Tamilnadu"
+    }
+  ]
+}
